@@ -19,4 +19,4 @@ Este é o meu portfólio pessoal desenvolvido como parte do projeto da aula de *
 
 ## Contribuições
 
-Este projeto está em constante evolução. Se
+
